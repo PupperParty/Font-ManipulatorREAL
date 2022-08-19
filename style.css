@@ -25,7 +25,7 @@
 }
 
 canvas{
-    border: 5px dotted slategray;
+    border: 3px dashed purple;
     border-radius: 5px;
-    box-shadow: 5px 5px 5px lightskyblue;
+    box-shadow: 5px 5px 5px pink;
 }
